@@ -1,5 +1,6 @@
 class Solution {
 public:
+/*
     int n;
     int t[1001][1001];
 
@@ -26,20 +27,23 @@ public:
 
         return max(take, skip);
     }
+    */
     
     int findLongestChain(vector<vector<int>>& pairs) {
-         n = pairs.size();
+         int n = pairs.size();
 
         // initialize dp
-        memset(t, -1, sizeof(t));
+        //memset(t, -1, sizeof(t));
+        //sort(begin(pairs),end(pairs));
+        //return solve(pairs, 0, -1);
+        vector<int> t(n,1);
         sort(begin(pairs),end(pairs));
-        return solve(pairs, 0, -1);
-        /*vector<int> t(n,1);
+        
         int maxLIS=1;
         
         for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
-                if(nums[j]< nums[i]){
+                if(pairs[j][1]<  pairs[i][0]){
                     t[i]=max(t[i],t[j]+1 );
                     maxLIS=max(maxLIS,t[i]);
                 }
@@ -47,7 +51,7 @@ public:
             
         }
         return maxLIS;
-        */
+        
 
 
     
