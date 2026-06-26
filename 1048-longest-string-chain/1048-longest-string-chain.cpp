@@ -3,7 +3,7 @@
 class Solution {
 public:
     int n;
-    int t[1001][1001];
+    //int t[1001][1001];
     static bool myFunction(string& word1, string& word2) {
         return word1.length() < word2.length();
     }
@@ -25,7 +25,7 @@ public:
         return i == M;
     }
 
-    int solve(vector<string>& words, int p, int i) {
+    /*int solve(vector<string>& words, int p, int i) {
         if (i == n)
             return 0;
 
@@ -44,11 +44,26 @@ public:
         }
 
         return max(take, skip);
-    }
+    */
     int longestStrChain(vector<string>& words) {
-        n = words.size();
-        memset(t,-1,sizeof(t));
+         n = words.size();
+        //memset(t,-1,sizeof(t));
+        vector<int> t(n,1);
+
         sort(begin(words), end(words), myFunction);
-        return solve(words, -1, 0);
+
+        int maxLis=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(isPred(words[j], words[i])){
+                    t[i]=max(t[i], t[j] +1 );
+                    maxLis=max(t[i], maxLis);
+
+                }
+            }
+        }
+        return maxLis;
+        
+        
     }
 };
