@@ -1,7 +1,7 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        /*
+        
         if (n == 0 || n == 1) {
             return 1;
         }
@@ -12,9 +12,9 @@ public:
             prev = temp;
         }
         return curr;
-        */
+        
 
-        if(n==1 || n==2 || n==3){
+        /*if(n==1 || n==2 || n==3){
             return n;
         }
 
@@ -27,5 +27,6 @@ public:
             t[i]=t[i-1] +t[i-2];
         }
         return t[n];
+        */
     }
 };
