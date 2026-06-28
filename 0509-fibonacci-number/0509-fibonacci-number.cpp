@@ -18,7 +18,7 @@ public:
     }
     */
     int fib(int n) {
-        int t[31];
+        /*int t[31];
         memset(t, -1, sizeof(t));
         function<int(int)> solve = [&](int n) {
             if (n == 0)
@@ -28,6 +28,22 @@ public:
             if (t[n] != -1)
                 return t[n];
             return t[n] = solve(n - 1) + solve(n - 2);
-        }; return solve(n);
+        }; return solve(n);*/
+
+        if (n == 0)
+            return 0;
+        if (n == 1)
+            return 1;
+
+        vector<int> dp(n + 1, -1);
+
+        // state define krenge
+        dp[0]=0;
+        dp[1]=1;
+
+        for(int i=2;i<=n;i++){
+            dp[i]=dp[i-1] + dp[i-2];
+        }
+        return dp[n];
     }
 };
