@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Dynamic Programming
 |  |
@@ -78,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
