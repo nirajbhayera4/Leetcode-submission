@@ -7,7 +7,7 @@ public:
 
         vector<vector<int>> t(m + 1, vector<int>(n + 1, 0));
 
-        // Build LCS DP table
+     
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
                 if (str1[i - 1] == str2[j - 1]) {
@@ -40,7 +40,8 @@ public:
         }
 
         // remaining characters add krne ke liye 
-        
+        // same as LCS , buss remaining characters add krne hai 
+
         while (i > 0) {
             scs.push_back(str1[i - 1]);
             i--;
