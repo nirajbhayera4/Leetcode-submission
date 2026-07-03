@@ -42,7 +42,7 @@ public:
             }
         }
         reverse(begin(lcs),end(lcs));
-        cout<<lcs<<endl;
+        cout<<lcs<<endl;// string print krke dekhne ke liye 
         return t[m][n];
         
     }
