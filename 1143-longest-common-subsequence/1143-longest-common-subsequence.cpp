@@ -21,7 +21,30 @@ public:
                 }
             }
         }
+
+        string lcs="";
+        int i=m,j=n;
+        while(i >0 && j >0){
+            if(text1[i-1] ==text2[j-1]){
+                lcs.push_back(text1[i-1]);
+                i--;
+                j--;
+
+            }
+            else{
+                if(t[i-1][j]> t[i][j-1]){
+                    i--;
+                }
+                else{
+                    j--;
+                }
+
+            }
+        }
+        reverse(begin(lcs),end(lcs));
+        cout<<lcs<<endl;
         return t[m][n];
+        
     }
     
 };
