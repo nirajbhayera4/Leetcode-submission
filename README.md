@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0509-fibonacci-number) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
