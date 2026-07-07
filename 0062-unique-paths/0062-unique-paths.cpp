@@ -1,6 +1,6 @@
 class Solution {
 public:
-
+/*
 int solve(int i,int j, int m , int n,vector<vector<int>>& t ){
     if(i ==m-1 && j==n-1){
         return 1; //it means ki destination me poch gya h 
@@ -16,8 +16,24 @@ int solve(int i,int j, int m , int n,vector<vector<int>>& t ){
     int down=solve(i+1,j,m,n,t);
     return t[i][j]=right + down;
 }
+*/
     int uniquePaths(int m, int n) {
-        vector<vector<int>> t(m+1, vector<int> (n+1, -1));
-        return solve(0,0,m,n,t);
+        vector<vector<int>> t(m, vector<int> (n));
+        //return solve(0,0,m,n,t);
+
+        t[0][0]=1;
+        for(int c=1;c<n;c++){
+            t[0][c]=1;
+        }
+        for(int r=1;r<m;r++){
+            t[r][0]=1;
+        }
+
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                t[i][j]=t[i-1][j] + t[i][j-1];
+            }
+        }
+        return t[m-1][n-1];
     }
 };
