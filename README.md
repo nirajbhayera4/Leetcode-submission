@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
