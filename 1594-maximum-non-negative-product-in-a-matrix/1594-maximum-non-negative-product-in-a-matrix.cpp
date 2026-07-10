@@ -18,16 +18,16 @@ public:
         // down
         if (i + 1 < m) {
             auto [downmax, downmin] = solve(i + 1, j, grid);
-            maxval = max({maxval, grid[i][j] * downmax, grid[i][j] * downmin});
-            minval = min({minval, grid[i][j] * downmax, grid[i][j] * downmin});
+            maxval = max({maxval,1LL * grid[i][j] * downmax,1LL * grid[i][j] * downmin});
+            minval = min({minval,1LL * grid[i][j] * downmax,1LL * grid[i][j] * downmin});
         }
         // right ke liye
         if (j + 1 < n) {
             auto [rightmax, rightmin] = solve(i, j + 1, grid);
             maxval =
-                max({maxval, grid[i][j] * rightmax, grid[i][j] * rightmin});
+                max({maxval,1LL * grid[i][j] * rightmax, 1LL *grid[i][j] * rightmin});
             minval =
-                min({minval, grid[i][j] * rightmax, grid[i][j] * rightmin});
+                min({minval, 1LL *grid[i][j] * rightmax, 1LL *grid[i][j] * rightmin});
         }
         return t[i][j] = {maxval, minval};
     }
