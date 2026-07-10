@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0064-minimum-path-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
