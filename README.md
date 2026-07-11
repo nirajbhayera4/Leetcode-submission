@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
 | ------- |
