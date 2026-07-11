@@ -6,7 +6,7 @@ public:
 
         vector<vector<int>> f(n, vector<int>(n, NEG));
 
-        // Child 2
+        
         f[0][n - 1] = fruits[0][n - 1];
 
         for (int i = 1; i < n; i++) {
@@ -17,7 +17,7 @@ public:
             }
         }
 
-        // Child 3
+         
         f[n - 1][0] = fruits[n - 1][0];
 
         for (int j = 1; j < n; j++) {
@@ -29,8 +29,7 @@ public:
         }
 
         int ans = f[n - 2][n - 1] + f[n - 1][n - 2];
-
-        // Child 1 (fixed diagonal path)
+ 
         for (int i = 0; i < n; i++)
             ans += fruits[i][i];
 
