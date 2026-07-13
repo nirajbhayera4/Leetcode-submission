@@ -13,12 +13,12 @@ public:
             while (n--) {
                 string curr = que.front();
                 que.pop();
-                if (curr == end)
+                if (curr == end) //agar start end ke equal hua toh return kr denge
                     return lvl;
 
                 for (char ch : "ACGT") {
                     for (int i = 0; i < curr.length(); i++) {
-                        string neighbour = curr;
+                        string neighbour = curr; 
                         neighbour[i] = ch;
 
                         if (visited.find(neighbour) == visited.end() &&
