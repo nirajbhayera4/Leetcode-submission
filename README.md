@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0064-minimum-path-sum) |
@@ -70,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
