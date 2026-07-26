@@ -29,6 +29,7 @@ void Union(int x, int y){
         for(int i=0;i<n;i++){
             parent[i]=i;
         }
+        // components ki area bna lenge 
 
         for(auto &vec :edges){
             int u=vec[0];
