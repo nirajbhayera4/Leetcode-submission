@@ -3,60 +3,65 @@ public:
 vector<int>parent;
 vector<int>rank;
 int find(int i){
-    if(parent[i]==i){
-        return i;
-    }
+    if(parent[i]==i)return i;
     return parent[i]=find(parent[i]);
 }
+
 void Union(int x, int y){
-    int x_parent=find(x);
-    int y_parent=find(y);
+    int xp=find(x);
+    int yp=find(y);
 
-    if(x_parent==y_parent){
-        return ;
-    }
-    if(rank[x_parent] > rank[y_parent]){
-        parent[y_parent]=x_parent;
+    if(xp==yp)return ;
+
+    if(rank[xp]> rank[yp]){
+        parent[yp]=xp;
 
     }
-    else if(rank[x_parent]<rank[y_parent]){
-        parent[x_parent]=y_parent;
+    else if(rank[xp] < rank[yp]){
+        parent[xp]=yp;
+
+    }
+    else {
+        parent[xp]=yp;
+        rank[yp]++;
     }
 
-    else{
-        parent[x_parent]=y_parent;
-        rank[y_parent]++;
-    }
-    
 
 }
+
     bool equationsPossible(vector<string>& equations) {
         parent.resize(26);
         rank.resize(26);
+
+        //starting me sb apne apne parent honge 
         for(int i=0;i<26;i++){
             parent[i]=i;
-
         }
-        // equals wala case 
-        for(string &s : equations){
+
+        // case1 : "=" ke liye
+
+        for(string &s :equations){
             if(s[1]=='='){
-                Union(s[0]-'a',s[3]-'a');
+                Union(s[0]-'a', s[3]-'a');
+
             }
         }
-        // "!" wala case 
+
+        //case2 : "!" ke liye 
         for(string &s : equations){
             if(s[1]=='!'){
                 char first=s[0];
                 char second=s[3];
 
-                int f_p=find(first -'a');
-                int s_p=find(second -'a');
-                if(f_p ==s_p){
+                int fp=find(first -'a');
+                int sp=find(second-'a');
+
+                if(fp==sp){
                     return false;
                 }
             }
-            
         }
         return true;
+
     }
 };
