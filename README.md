@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0990-satisfiability-of-equality-equations) |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
