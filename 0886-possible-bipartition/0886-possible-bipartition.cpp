@@ -1,31 +1,34 @@
 class Solution {
 public:
-bool checkB(vector<vector<int>>& adj, int node, vector<int>&color, int curcolor){
-    color[node]=curcolor;
-    for(int &v : adj[node]){
-        if(color[v]==color[node])return false;
+bool checkDfs(vector<vector<int>>&adj, int u, vector<int> &color, int currcolor){
+    color[u]=currcolor;
+    for(auto &v : adj[u]){
+        if(color[v]==color[u])return false;
         if(color[v]==-1){
-            int colorV=1-curcolor;
-            if(!checkB(adj, v, color, colorV))return false;
+            int colorv=1-currcolor;
+            if(checkDfs(adj,v,color, colorv)==false)return false;
         }
     }
     return true;
-
 }
     bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
         vector<vector<int>> adj(n+1);
-        // adjecency list banni padegi 
+// adjencency list banani pdegi kyuki isme graph input me de rkha hai to hume khud banan pdegi 
         for(auto &v : dislikes){
+            
             int a=v[0];
             int b=v[1];
-
             adj[a].push_back(b);
             adj[b].push_back(a);
+            
+
+
         }
-        vector<int>color(n+1,-1);
-        for(int i=1;i<=n;i++){
+
+        vector<int> color(n+1,-1);
+        for(int i=0;i<n;i++){
             if(color[i]==-1){
-                if(!checkB(adj, i, color, 1))return false;
+                if(checkDfs(adj,i, color, 1)==false)return false;
             }
         }
         return true;
