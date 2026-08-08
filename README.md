@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0990-satisfiability-of-equality-equations) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Math
 |  |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
