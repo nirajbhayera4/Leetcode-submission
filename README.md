@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
+| [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
@@ -284,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
