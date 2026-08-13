@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0207-course-schedule) |
