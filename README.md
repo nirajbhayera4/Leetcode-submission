@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
+| [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 ## Combinatorics
 |  |
 | ------- |
@@ -338,8 +341,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
+| [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 ## Hamiltonian Path
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
