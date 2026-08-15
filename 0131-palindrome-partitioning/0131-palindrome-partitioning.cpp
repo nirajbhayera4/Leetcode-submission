@@ -1,44 +1,41 @@
 class Solution {
 public:
-    void solve(string& s, int i, vector<string>& currp, vector<vector<bool>>& t,
-               vector<vector<string>>& result) {
-        if (i == s.length()){
-             result.push_back(currp);
-            return ;
+int n;
+bool ispalindrome(string &s, int l ,int r){
+    while(l <r){
+        if(s[l]!=s[r]){
+            return false;
         }
-        for( int j=i;j<s.length();j++){
-            if(t[i][j]==true){
-                currp.push_back(s.substr(i, j-i+1));
-                solve(s, j+1, currp, t, result);
-                currp.pop_back();
-            }
-        }
-           
+        l++;
+        r--;
     }
+    return true;
+}
+void backtrack(string &s, int idx, vector<string> &curr, vector<vector<string>> &result){
+    if(idx ==n){
+        result.push_back(curr);
+    }
+    for(int i=idx;i <n;i++){
+        if(ispalindrome(s, idx, i)){
+            curr.push_back(s.substr(idx, i-idx+1));
+            backtrack(s,i+1,curr,result);
+            curr.pop_back();
 
-
+        }
+    }
+}
     vector<vector<string>> partition(string s) {
-        int n = s.length();
-        vector<vector<bool>> t(n, vector<bool>(n, false));
-
-        for (int i = 0; i < n; ++i) {
-            t[i][i] = true;
-        }
-        for (int l = 2; l <= n; ++l) {
-            for (int i = 0; i < n - l + 1; ++i) {
-                int j = i + l - 1;
-                if (s[i] == s[j]) {
-                    if (l == 2) {
-                        t[i][j] = true;
-                    } else {
-                        t[i][j] = t[i + 1][j - 1];
-                    }
-                }
-            }
-        }
+        n=s.length();
         vector<vector<string>> result;
-        vector<string> currp;
-        solve(s, 0, currp, t, result);
+        vector<string> curr;
+
+        backtrack(s, 0, curr, result);
         return result;
+
+
     }
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
