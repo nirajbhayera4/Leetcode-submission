@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 ## Combinatorics
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 ## Hamiltonian Path
 |  |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
