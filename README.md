@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
