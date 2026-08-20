@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
