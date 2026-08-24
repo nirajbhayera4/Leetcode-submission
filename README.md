@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2544-alternating-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
