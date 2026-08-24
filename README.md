@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
