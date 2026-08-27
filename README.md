@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
