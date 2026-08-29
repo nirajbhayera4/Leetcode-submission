@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0377-combination-sum-iv) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0047-permutations-ii) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
