@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0078-subsets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0091-decode-ways) |
