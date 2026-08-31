@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0367-valid-perfect-square) |
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
