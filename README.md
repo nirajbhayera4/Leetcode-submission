@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -442,5 +447,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [3663-find-the-least-frequent-digit](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3663-find-the-least-frequent-digit) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
