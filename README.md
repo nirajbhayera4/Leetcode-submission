@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0886-possible-bipartition) |
