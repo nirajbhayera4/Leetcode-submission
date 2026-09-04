@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0990-satisfiability-of-equality-equations) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3663-find-the-least-frequent-digit) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2485-find-the-pivot-integer](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2485-find-the-pivot-integer) |
 ## Math
