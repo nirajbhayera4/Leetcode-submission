@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
