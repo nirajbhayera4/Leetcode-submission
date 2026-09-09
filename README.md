@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0647-palindromic-substrings) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0345-reverse-vowels-of-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0647-palindromic-substrings) |
