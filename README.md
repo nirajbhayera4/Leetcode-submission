@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0039-combination-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0217-contains-duplicate) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
