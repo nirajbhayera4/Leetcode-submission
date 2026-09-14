@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
