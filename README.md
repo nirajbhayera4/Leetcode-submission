@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2544-alternating-digit-sum) |
@@ -483,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
