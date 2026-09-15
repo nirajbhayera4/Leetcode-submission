@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
