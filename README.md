@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0131-palindrome-partitioning) |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
