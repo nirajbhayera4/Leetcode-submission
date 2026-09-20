@@ -1,16 +1,12 @@
 class Solution {
 public:
     int reverseDegree(string s) {
-        int sum = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char c = s[i];
-
-            int reverseValue = 26 - (c - 'a');
-            int position = i + 1;
-
-            sum += reverseValue * position;
+        int n = 0;
+        for(int i=0;i<s.length();i++)
+        {
+            n+=(i+1)*(26-(s[i]-'a'));
         }
-        return sum;
+        return n;
     }
 };
 
