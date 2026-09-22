@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2090-k-radius-subarray-averages](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2090-k-radius-subarray-averages) |
 | [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0076-minimum-window-substring) |
+| [2090-k-radius-subarray-averages](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Queue
 |  |
