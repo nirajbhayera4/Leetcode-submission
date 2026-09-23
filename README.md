@@ -530,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
