@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
+| [1652-defuse-the-bomb](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1652-defuse-the-bomb) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2090-k-radius-subarray-averages) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0076-minimum-window-substring) |
+| [1652-defuse-the-bomb](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1652-defuse-the-bomb) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
