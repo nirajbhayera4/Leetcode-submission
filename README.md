@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3477-fruits-into-baskets-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3479-fruits-into-baskets-iii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Search
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2544-alternating-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3663-find-the-least-frequent-digit) |
 | [3870-count-commas-in-range](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3908-valid-digit-number) |
