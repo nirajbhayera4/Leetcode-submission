@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
