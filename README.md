@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0076-minimum-window-substring) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1114-print-in-order) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
