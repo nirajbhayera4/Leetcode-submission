@@ -1,10 +1,11 @@
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
-        int sum = 0;
-        for(int i = 0; i < nums.size(); i++){
-            sum += nums[i];
-            nums[i] = sum;
+        int n=nums.size();
+        int sum=nums[0];
+        for(int i=1;i<n;i++){
+            nums[i]=nums[i]+ sum;
+            sum=nums[i];
         }
         return nums;
     }
