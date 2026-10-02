@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0980-unique-paths-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1048-longest-string-chain) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3663-find-the-least-frequent-digit) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1480-running-sum-of-1d-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1480-running-sum-of-1d-array) |
