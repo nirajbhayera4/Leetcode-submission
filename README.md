@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
+| [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -573,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
