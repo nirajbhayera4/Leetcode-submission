@@ -6,10 +6,16 @@ public:
 
         while (l < r) {
             int mid = l + (r - l) / 2;
+            // agar left element mid se bda hoga to , humesha target/small element right side pe hoga/
+            // right pe search krega 
+             
 
             if (nums[mid] > nums[r]) {
                 l = mid + 1;
             }
+
+            // and vice versa hoga 
+            // left pe search krega 
             else {
                 r = mid;
             }
