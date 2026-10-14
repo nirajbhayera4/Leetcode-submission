@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1539-kth-missing-positive-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1539-kth-missing-positive-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2812-find-the-safest-path-in-a-grid) |
