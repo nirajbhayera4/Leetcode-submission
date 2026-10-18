@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0367-valid-perfect-square](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0836-rectangle-overlap) |
@@ -630,9 +631,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0382-linked-list-random-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
