@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
@@ -509,11 +511,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
