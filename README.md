@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 ## Divide and Conquer
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
