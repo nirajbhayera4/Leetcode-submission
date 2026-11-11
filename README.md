@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0901-online-stock-span) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0918-maximum-sum-circular-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
