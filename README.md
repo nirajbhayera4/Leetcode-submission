@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0241-different-ways-to-add-parentheses) |
 | [0367-valid-perfect-square](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0367-valid-perfect-square) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
