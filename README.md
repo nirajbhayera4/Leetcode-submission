@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0886-possible-bipartition) |
+| [0897-increasing-order-search-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0897-increasing-order-search-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0897-increasing-order-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -673,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0901-online-stock-span) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
