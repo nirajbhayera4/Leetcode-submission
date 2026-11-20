@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0491-non-decreasing-subsequences) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0647-palindromic-substrings) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3663-find-the-least-frequent-digit) |
 ## Bucket Sort
 |  |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0918-maximum-sum-circular-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
