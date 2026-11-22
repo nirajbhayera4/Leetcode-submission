@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1652-defuse-the-bomb) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2090-k-radius-subarray-averages) |
 | [2305-fair-distribution-of-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2305-fair-distribution-of-cookies) |
 | [2418-sort-the-people](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2418-sort-the-people) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2073-time-needed-to-buy-tickets) |
 | [3477-fruits-into-baskets-ii](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
