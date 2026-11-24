@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0641-design-circular-deque) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0918-maximum-sum-circular-subarray) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0307-range-sum-query-mutable) |
+| [0641-design-circular-deque](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0918-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0382-linked-list-random-node) |
+| [0641-design-circular-deque](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0641-design-circular-deque) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
