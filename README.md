@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0641-design-circular-deque) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0962-maximum-width-ramp) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirajbhayera4/Leetcode-submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
